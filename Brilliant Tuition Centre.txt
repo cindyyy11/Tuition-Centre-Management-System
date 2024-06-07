@@ -1,0 +1,18 @@
+Form 1 Mathematics,200,Monday|1500
+yongming,1984024,342694729601,Lee Yoke Hun,12/5/1995,Male,Chinese,yuikgfd@gmail.com,01987663342,25|Jalan|Taman,Receptionist
+Form 1 Science,300,Monday|1200
+Form 3 English,500,Tuesday|1500
+zining56,103659249,Admin
+cindypua,2362498126,3462390812096,Cindy Pua,1/1/2004,Female,Chinese,cindypua@yahoo.com,016328923,28|Jalan Simpang|Taman Simpang|Kuala Lumpur,Form 1,Mathematics&Science,February,Choong ASl,0164236295,100.25,Student
+yongsheng1,3611343621210,3267957625217439,Cheong Yong Sheng,2/12/2000,Male,Chinese,yongsheng@outlook.com,0125367893,2|Jalan Pengsoo|Taman Ahju Nice,Receptionist
+Choong Wei,21/8/2023,12:45pm,Tuition fee payment (cash)
+Form 3 Geography,300,Saturday|1230
+Form 3 Mandarin,350,Friday|1100
+jenslee,23456791736128,2165490836713,Jens Lee,1/1/2004,Female,Chinese,jenslee@gmail.com,0173492103,2|Jalan Simpang|Taman Simpang|Bukit Jalil,Form 1 Mathematics,Tutor
+chongzj,15/8/2023,150.0,payment
+chongzj,200413,129045778923,Choong June,13/2/1122,Female,Chinese,zhiju@outlook.com,0182253421,28|Jalan|Taman|43000,Form 1,Mathematics&Science,July,Wei Wei,01433264435,300.25,Student
+chongzj,2023-08-28,20.0,payment
+Request,junechoong1703,Mandarin,Mathematics,-,Approved
+junechoong1703,20001703,567898765487,Choong Zhi Jun,17/6/2004,Female,Chinese,choongzhijun@gmail.com,0174927592,28|Jalan|Taman,Form 3,Mathematics&Geography,October,Choong Wei,0194453223,190.0,Student
+junechoong1703,2023-11-02,190.0,payment
+Request,cindypua,Mathematics,Mandarin,Mathematics is too hard,Pending
